@@ -10,4 +10,4 @@ Int valor = 3
 
 ## Operador aritmético:
 
-**
+**Os operadores aritméticos realizam as operações fundamentais da matemática entre duas variáveis e retornam o resultado. Caso seja necessário escrever operações maiores ou mais complexas, podemos combinar esses operadores e criar expressões, o que nos permite executar todo tipo de cálculo de forma programática.**
