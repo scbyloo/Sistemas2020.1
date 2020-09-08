@@ -1,4 +1,4 @@
-# Exercicio Alô Mundo em java
+//Exercicio Alô Mundo em java
 
 package curso_programacao;
 
