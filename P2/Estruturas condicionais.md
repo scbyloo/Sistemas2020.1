@@ -9,5 +9,13 @@
 **A instrução if deve ser listada da seguinte maneira:**
 
 >if (comando){
-  (instrução)
-  }
+ 
+>   (instrução)
+ 
+ >}
+
+**Dessa maneira, o que está no comando deve resultar em um valor booleano, ou seja, True ou False, dessa forma a instrução será resultante desse valor booleano, se o valor booleano for True, por exemplo, deverá seguir a instrução e imprimir alguma coisa ou fazer algum cálculo. Mas o que sempre acontece é que o comando é uma regra e a instrução respeita essa regra, se tiver fora da regra não faz parte da instrução.**
+
+## Instrução "Else"
+
+**O else é exatamente o oposto do if, ou seja, o que não respeitar o comando colocado no if, provavelmente estará dentro do else e receberá outra instrução.**
