@@ -6,7 +6,7 @@
 
 **O operador de atribuição é utilizado para definir o valor inicial ou sobrescrever o valor de uma variável. Em seu uso, o operando à esquerda representa a variável para a qual desejamos atribuir o valor informado à direita. Exemplo:**
 
-Int valor = 3
+>Int valor = 3
 
 ## Operador aritmético:
 
@@ -14,15 +14,15 @@ Int valor = 3
 
 **Operadores:**
 
-Operador de adição = +
+>Operador de adição = +
 
-Operador de subtração = -
+>Operador de subtração = -
 
-Operador de multiplicação = *
+>Operador de multiplicação = *
 
-Operador de divisão = /
+>Operador de divisão = /
 
-Operador de módulo = %
+>Operador de módulo = %
 
 ## Operador de incremento e decremento:
 
@@ -34,9 +34,9 @@ Operador de módulo = %
 
 **Operadores:**
 
-Operador para identificar uma igualdade "=="
+>Operador para identificar uma igualdade "=="
 
-Operador para identificar um valor diferente de outro "!="
+>Operador para identificar um valor diferente de outro "!="
 
 ## Operador relacional:
 
@@ -44,13 +44,13 @@ Operador para identificar um valor diferente de outro "!="
 
 **Operadores:**
 
-> = maior que...
+>">" = maior que...
 
->= = maior ou igual à...
+>">=" = maior ou igual à...
 
-< = menor que...
+>"<" = menor que...
 
-<= = meenor ou igual à...
+>"<=" = meenor ou igual à...
 
 ## Operador lógico:
 
